@@ -22,5 +22,10 @@ public class BuddyInfo {
 
         System.out.println("Hello " + buddyInfo.getName());
     }
+
+    public void hello(){
+
+        System.out.println("Hello");
+    }
 }
 
